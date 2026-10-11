@@ -1,0 +1,8 @@
+{
+  "name": "Photo Card Maker Pro | Sajidul Islam Pathan",
+  "description": "পেশাদার সংবাদ, উক্তি ও সোশ্যাল মিডিয়ার জন্য আকর্ষণীয় ফটো কার্ড তৈরির উন্নত প্ল্যাটফর্ম - লোগো, তারিখ, ফুটার ও সোশ্যাল মিডিয়া ইন্টিগ্রেশন সহ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
